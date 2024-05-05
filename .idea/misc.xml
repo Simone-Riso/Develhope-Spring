@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/demo-webapp/demo-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/ControllerConGETCompleta/pom.xml" />
       </list>
     </option>
   </component>
