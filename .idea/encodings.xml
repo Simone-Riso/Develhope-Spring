@@ -2,9 +2,9 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/ControlleConPOST/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ControllerConGETePOST/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/EsercizioControllerConGETCompleta/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Esercizio_demoWebapp/demo-webapp/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Esercizio_demoWebapp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-webapp/demo-webapp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-webapp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/esercizio_Controller_Con_GET_Completa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/esercizio_Controller_Con_GET_e_POST/src/main/java" charset="UTF-8" />
   </component>
 </project>
