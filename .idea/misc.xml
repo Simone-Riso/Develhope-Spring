@@ -7,6 +7,10 @@
         <option value="$PROJECT_DIR$/demo-webapp/demo-webapp/pom.xml" />
         <option value="$PROJECT_DIR$/ControllerConGETCompleta/pom.xml" />
         <option value="$PROJECT_DIR$/ControlleConPOST/pom.xml" />
+        <option value="$PROJECT_DIR$/ControllerConGETePOST/pom.xml" />
+        <option value="$PROJECT_DIR$/EsercizioControllerConGETCompleta/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/Esercizio_demoWebapp/pom.xml" />
       </list>
     </option>
   </component>

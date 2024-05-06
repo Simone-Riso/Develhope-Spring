@@ -6,8 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="demo-webapp" />
-        <module name="ControllerConGETCompleta" />
+        <module name="ControllerConGETePOST" />
+        <module name="Esercizio_demoWebapp" />
+        <module name="EsercizioControllerConGETCompleta" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,8 +18,9 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="ControlleConPOST" options="-parameters" />
-      <module name="ControllerConGETCompleta" options="-parameters" />
-      <module name="demo-webapp" options="-parameters" />
+      <module name="ControllerConGETePOST" options="-parameters" />
+      <module name="EsercizioControllerConGETCompleta" options="-parameters" />
+      <module name="Esercizio_demoWebapp" options="-parameters" />
     </option>
   </component>
 </project>
