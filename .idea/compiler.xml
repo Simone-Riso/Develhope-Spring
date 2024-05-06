@@ -17,8 +17,8 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="ControlleConPOST" options="-parameters" />
-      <module name="ControllerConGETCompleta" options="-parameters" />
-      <module name="demo-webapp" options="-parameters" />
+      <module name="ControllerConGETCompleta" options="" />
+      <module name="demo-webapp" options="" />
     </option>
   </component>
 </project>
