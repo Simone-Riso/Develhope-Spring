@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>demo-webapp</artifactId>
+	<artifactId>esercizio_Controller_Con_Query_Parameter</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo-webapp</name>
+	<name>esercizio_Controller_Con_Query_Parameter</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>21</java.version>
