@@ -8,12 +8,12 @@
         <outputRelativeToContentRoot value="true" />
         <module name="esercizio_Controller_Con_Query_Parameter" />
         <module name="esercizio_Controller_Con_GET_e_POST" />
-        <module name="esercizio_Controller_Con_Documentazione_in_Swagger" />
         <module name="esercizio_Controller_Con_GET_Completa" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ControlleConPOST" target="21" />
+      <module name="esercizio_Controller_Con_Documentazione_in_Swagger" target="22" />
       <module name="EsercizioControllerConGETCompleta" target="21" />
       <module name="EsercizioControllerConGETePOST" target="17" />
     </bytecodeTargetLevel>
