@@ -15,11 +15,8 @@
         <option value="$PROJECT_DIR$/esercizio_Controller_Con_GET_Completa/pom.xml" />
         <option value="$PROJECT_DIR$/esercizio_Controller_Con_GET_e_POST/pom.xml" />
         <option value="$PROJECT_DIR$/esercizio_Controller_Con_Query_Parameter/pom.xml" />
+        <option value="$PROJECT_DIR$/esercizio_Controller_Con_Documentazione_in_Swagger/pom.xml" />
       </list>
-    </option>
-    <option name="ignoredFiles">
-      <set>
-      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_22" default="true" project-jdk-name="temurin-22" project-jdk-type="JavaSDK">
