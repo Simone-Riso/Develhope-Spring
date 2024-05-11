@@ -16,6 +16,7 @@
         <option value="$PROJECT_DIR$/esercizio_Controller_Con_GET_e_POST/pom.xml" />
         <option value="$PROJECT_DIR$/esercizio_Controller_Con_Query_Parameter/pom.xml" />
         <option value="$PROJECT_DIR$/esercizio_Controller_Con_Documentazione_in_Swagger/pom.xml" />
+        <option value="$PROJECT_DIR$/esercizo_Controller_Con_Protezione_Tramite_CORS/pom.xml" />
       </list>
     </option>
   </component>
