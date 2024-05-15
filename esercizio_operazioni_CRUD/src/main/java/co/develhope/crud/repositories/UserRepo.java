@@ -6,4 +6,5 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 @RequestMapping
 public interface UserRepo extends JpaRepository<User, Long> {
+
 }
