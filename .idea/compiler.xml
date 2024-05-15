@@ -9,15 +9,16 @@
         <outputRelativeToContentRoot value="true" />
         <module name="esercizio_mockh2" />
         <module name="esercizio_Controller_Con_Query_Parameter" />
+        <module name="esercizio_operazioni_CRUD" />
         <module name="esercizio_Controller_Con_GET_e_POST" />
-        <module name="esercizio_Controller_Con_Documentazione_in_Swagger" />
         <module name="esercizio_Controller_Con_GET_Completa" />
         <module name="esercizio_Hibernate" />
+        <module name="esercizio_Controller_Con_Protezione_Tramite_CORS" />
+        <module name="esercizio_Controller_Con_Documentazione_in_Swagger" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ControlleConPOST" target="21" />
-      <module name="esercizio_Controller_Con_Protezione_Tramite_CORS" target="21" />
       <module name="EsercizioControllerConGETCompleta" target="21" />
       <module name="EsercizioControllerConGETePOST" target="17" />
     </bytecodeTargetLevel>
@@ -34,6 +35,7 @@
       <module name="esercizio_Controller_Con_Query_Parameter" options="-parameters" />
       <module name="esercizio_Hibernate" options="-parameters" />
       <module name="esercizio_mockh2" options="-parameters" />
+      <module name="esercizio_operazioni_CRUD" options="-parameters" />
     </option>
   </component>
 </project>
