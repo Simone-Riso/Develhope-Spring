@@ -5,29 +5,23 @@ import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import java.time.LocalDate;
 
-@Data
+@JsonIgnoreProperties({"hibernateLazyInitializer", "handler"})
 @NoArgsConstructor
 @AllArgsConstructor
-@JsonIgnoreProperties({"hibernateLazyInitializer", "handler"})
+@Data
 @Entity
-@Table(name = "users")
-public class User {
+@Table(name = "cars")
+public class Car {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private long id;
 
-    private String firstName;
-
-    private String lastName;
-
     @Column(unique = true, nullable = false)
-    private String email;
+    private String modelName;
 
-    private LocalDate birthDate;
-
-    private String cityOfBirth;
+    @Column(nullable = false)
+    private String type;
 
 }
