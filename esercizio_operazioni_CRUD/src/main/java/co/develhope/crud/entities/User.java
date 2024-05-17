@@ -1,17 +1,18 @@
 package co.develhope.crud.entities;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-
 import java.time.LocalDate;
 
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-@Table
+@JsonIgnoreProperties({"hibernateLazyInitializer", "handler"})
 @Entity
+@Table(name = "users")
 public class User {
 
     @Id
