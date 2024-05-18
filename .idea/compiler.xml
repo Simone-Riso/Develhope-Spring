@@ -14,6 +14,7 @@
         <module name="esercizio_Controller_Con_GET_Completa" />
         <module name="esercizio_Hibernate" />
         <module name="esercizio_Controller_Con_Protezione_Tramite_CORS" />
+        <module name="esercizio_repositories" />
         <module name="esercizio_Controller_Con_Documentazione_in_Swagger" />
       </profile>
     </annotationProcessing>
@@ -36,6 +37,7 @@
       <module name="esercizio_Hibernate" options="-parameters" />
       <module name="esercizio_mockh2" options="-parameters" />
       <module name="esercizio_operazioni_CRUD" options="-parameters" />
+      <module name="esercizio_repositories" options="-parameters" />
     </option>
   </component>
 </project>
