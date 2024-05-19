@@ -6,28 +6,24 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-import java.time.LocalDate;
-
 @Entity
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-@Table(name = "users")
-public class User {
+@Table(name = "cars")
+public class Car {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long id;
+    private long id;
 
-    private String firstName;
+    @Column(unique = true, nullable = false)
+    private String modelName;
 
-    private String lastName;
+    @Column(nullable = false)
+    private String serialNumber;
 
-    @Column(nullable = false, unique = true)
-    private String email;
-
-    private LocalDate birthDate;
-
-    private String city;
+    @Column(nullable = false)
+    private Integer currentPrice;
 
 }
