@@ -31,7 +31,7 @@ public class CarController {
     @GetMapping("/getCar/{id}")
     public ResponseEntity<Car> getCarById(@PathVariable long id) {
         if (carRepo.existsById(id)) {
-            Car car = carRepo.getById(id);
+            Car car = carRepo.findById(id).orElse(null);
             return ResponseEntity.ok(car); // 200 OK
         } else {
             return ResponseEntity.notFound().build(); // 400 NOT FOUND
