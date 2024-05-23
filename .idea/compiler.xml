@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="esercizio_mockh2" />
         <module name="esercizio_Controller_Con_Query_Parameter" />
+        <module name="esercizio_crud_test" />
         <module name="esercizio_operazioni_CRUD" />
         <module name="esercizio_Controller_Con_GET_e_POST" />
         <module name="esercizio_Controller_Con_GET_Completa" />
@@ -36,6 +37,7 @@
       <module name="esercizio_Controller_Con_Protezione_Tramite_CORS" options="-parameters" />
       <module name="esercizio_Controller_Con_Query_Parameter" options="-parameters" />
       <module name="esercizio_Hibernate" options="-parameters" />
+      <module name="esercizio_crud_test" options="-parameters" />
       <module name="esercizio_mockh2" options="-parameters" />
       <module name="esercizio_operazioni_CRUD" options="-parameters" />
       <module name="esercizio_repositories" options="-parameters" />
