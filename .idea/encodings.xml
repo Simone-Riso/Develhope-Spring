@@ -2,6 +2,16 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/ControlleConPOST/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/checkpoint/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/esercizioCustomQueries1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/esercizioCustomQueries2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/esercizioDeploy01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/esercizioDeploy02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/esercizioDeployEnv01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/esercizioDeployEnv02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/esercizioLogging/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/esercizioMiddleware01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/esercizioMiddleware02/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/esercizio_Controller_Con_Documentazione_in_Swagger/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/esercizio_Controller_Con_GET_Completa/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/esercizio_Controller_Con_GET_e_POST/src/main/java" charset="UTF-8" />
@@ -15,5 +25,6 @@
     <file url="file://$PROJECT_DIR$/esercizio_repositories/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/esercizio_repositories_2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/esercizio_test_unit/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ultimoEsercizio/src/main/java" charset="UTF-8" />
   </component>
 </project>

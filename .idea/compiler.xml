@@ -7,17 +7,28 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="esercizio_mockh2" />
+        <module name="checkpoint" />
         <module name="esercizio_Controller_Con_Query_Parameter" />
+        <module name="esercizioMiddleware02" />
+        <module name="esercizioDeployEnv02" />
         <module name="esercizio_crud_test" />
-        <module name="esercizio_operazioni_CRUD" />
-        <module name="esercizio_Controller_Con_GET_e_POST" />
+        <module name="esercizioMiddleware01" />
+        <module name="esercizioDeployEnv01" />
         <module name="esercizio_Controller_Con_GET_Completa" />
         <module name="esercizio_Hibernate" />
         <module name="esercizio_repositories_2" />
+        <module name="esercizioCustomQueries1" />
         <module name="esercizio_Controller_Con_Protezione_Tramite_CORS" />
-        <module name="esercizio_repositories" />
+        <module name="esercizioLogging" />
         <module name="esercizio_Controller_Con_Documentazione_in_Swagger" />
+        <module name="esercizioCustomQueries2" />
+        <module name="esercizio_mockh2" />
+        <module name="esercizioDeploy02" />
+        <module name="esercizio_operazioni_CRUD" />
+        <module name="esercizio_Controller_Con_GET_e_POST" />
+        <module name="esercizio_repositories" />
+        <module name="ultimoEsercizio" />
+        <module name="esercizioDeploy01" />
         <module name="esercizio_test_unit" />
       </profile>
     </annotationProcessing>
@@ -32,6 +43,16 @@
       <module name="ControlleConPOST" options="-parameters" />
       <module name="EsercizioControllerConGETCompleta" options="-parameters" />
       <module name="EsercizioControllerConGETePOST" options="-parameters" />
+      <module name="checkpoint" options="-parameters" />
+      <module name="esercizioCustomQueries1" options="-parameters" />
+      <module name="esercizioCustomQueries2" options="-parameters" />
+      <module name="esercizioDeploy01" options="-parameters" />
+      <module name="esercizioDeploy02" options="-parameters" />
+      <module name="esercizioDeployEnv01" options="-parameters" />
+      <module name="esercizioDeployEnv02" options="-parameters" />
+      <module name="esercizioLogging" options="-parameters" />
+      <module name="esercizioMiddleware01" options="-parameters" />
+      <module name="esercizioMiddleware02" options="-parameters" />
       <module name="esercizio_Controller_Con_Documentazione_in_Swagger" options="-parameters" />
       <module name="esercizio_Controller_Con_GET_Completa" options="-parameters" />
       <module name="esercizio_Controller_Con_GET_e_POST" options="-parameters" />
@@ -44,6 +65,7 @@
       <module name="esercizio_repositories" options="-parameters" />
       <module name="esercizio_repositories_2" options="-parameters" />
       <module name="esercizio_test_unit" options="-parameters" />
+      <module name="ultimoEsercizio" options="-parameters" />
     </option>
   </component>
 </project>

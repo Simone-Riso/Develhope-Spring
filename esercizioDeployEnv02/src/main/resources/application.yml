@@ -1,0 +1,25 @@
+server:
+  port: 4000
+
+spring:
+  profiles:
+    active: test
+
+---
+spring:
+  profiles: test
+  application:
+    name: myapp
+
+welcomeMsg: "Hello from Test"
+
+---
+spring:
+  profiles: prod
+  application:
+    name: myapp
+
+server:
+  port: 5000
+
+welcomeMsg: "Hello from Prod"

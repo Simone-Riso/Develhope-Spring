@@ -25,6 +25,17 @@
         <option value="$PROJECT_DIR$/esercizio_repositories_2/pom.xml" />
         <option value="$PROJECT_DIR$/esercizio_crud_test/pom.xml" />
         <option value="$PROJECT_DIR$/esercizio_test_unit/pom.xml" />
+        <option value="$PROJECT_DIR$/checkpoint/pom.xml" />
+        <option value="$PROJECT_DIR$/esercizioMiddleware01/pom.xml" />
+        <option value="$PROJECT_DIR$/esercizioMiddleware02/pom.xml" />
+        <option value="$PROJECT_DIR$/esercizioCustomQueries1/pom.xml" />
+        <option value="$PROJECT_DIR$/esercizioCustomQueries2/pom.xml" />
+        <option value="$PROJECT_DIR$/esercizioDeploy01/pom.xml" />
+        <option value="$PROJECT_DIR$/esercizioDeploy02/pom.xml" />
+        <option value="$PROJECT_DIR$/esercizioDeployEnv01/pom.xml" />
+        <option value="$PROJECT_DIR$/esercizioDeployEnv02/pom.xml" />
+        <option value="$PROJECT_DIR$/esercizioLogging/pom.xml" />
+        <option value="$PROJECT_DIR$/ultimoEsercizio/pom.xml" />
       </list>
     </option>
   </component>
