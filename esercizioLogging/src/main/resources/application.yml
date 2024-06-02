@@ -1,8 +1,0 @@
-custom:
-  env:
-    var1: 2
-    var2: 8
-logging:
-  level:
-    root: INFO
-    com.example: DEBUG

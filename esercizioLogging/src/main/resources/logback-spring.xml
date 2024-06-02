@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <configuration>
-
-    <springProperty scope="context" name="logging.level.root" source="logging.level.root"/>
-    <springProperty scope="context" name="logging.level.com.example" source="logging.level.com.example"/>
 
     <include resource="org/springframework/boot/logging/logback/base.xml"/>
 
+    <springProperty scope="context" name="logging.file" source="logging.file"/>
+    <springProperty scope="context" name="logging.level.root" source="logging.level.root"/>
+
     <appender name="FILE" class="ch.qos.logback.core.FileAppender">
-        <file>myCustomLogs/application.log</file>
+        <file>${logging.file}</file>
         <encoder>
             <pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>
         </encoder>
@@ -16,7 +15,5 @@
     <root level="${logging.level.root}">
         <appender-ref ref="FILE"/>
     </root>
-
-    <logger name="com.example" level="${logging.level.com.example}"/>
 
 </configuration>
